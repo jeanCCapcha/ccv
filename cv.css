@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.principal{
+    border: solid 1px  black;
+}
+.container{
+    display: flex;
+    position: relative;
+}
+.blockuno{
+    padding: 20px;
+    background-color: rgb(90, 84, 84);
+    width: 250px;
+   max-width: 250px;
+}
+.user{
+    border-radius: 50%;
+    width: 150px;
+    border: solid 8px white;
+    margin-bottom: 50px;
+    margin-left: 17%;
+    margin-top: 60px;
+}
+.blanco{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+table td{
+    border:  10px  solid    rgb(90, 84, 84);
+    margin-left: 10px;
+}
+table{
+    max-width: 60%;
+    margin: 10px 0 10px 0;
+}
+/*  */
+
+.bloque{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 60px 50px 0;
+    font-size: 30px;
+}
+.verdana{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.blockdos {
+   
+    width: 800px;
+    background-color: white;   
+}
+.blockdos h3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.bloquedos{
+    margin: 0 50px;
+}
+.bloquedos h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin: 25px 0 5px;
+}
+.bloquedos p{
+    text-align: justify;
+}
+
+/*  */
+
+.experiencia{
+    margin: 0 50px;
+}
+.experiencia h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin: 25px 0 6px;
+}
+.linea{
+    padding: 1px ;
+    background-color: rgb(75, 71, 71);
+    border: none;
+    margin-bottom: 20px;
+}
+
+
+/* viñetas */
+.circulo{
+    
+    border: solid 1px black;
+    border-radius: 50%;
+    width: 20px ;
+    height: 20px;
+}
+.lineas{
+    width: 1px;
+    height: 90px;
+    border-left: solid 1px rgb(0, 0, 0);
+    margin: 0 0 0 9px;
+}
+/* viñetas */
+main{
+    display: flex;
+}
+
+.empresa{
+    width: 200px;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+.desempeño{
+    width: 450px;
+}
+.principal{
+    margin: 20px auto;
+
+}
+.empresa div{
+    margin: 0 30px  78px ;
+   font-size: 16px;
+}
+.desempeño div{
+   text-align: justify;
+   margin: 0 0 30px;
+
+}
+/*  */
+.cole{
+    width: 200px;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+.forma{
+        width: 450px;
+    
+}
+.educacion{
+    margin: 0 50px;
+}
+.educacion h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin: 25px 0 6px;
+}
+.cole div{
+    margin: 0 30px 78px ;
+}
+.forma div{
+    margin: 0  0 62px;
+}
+/*  */
+.referencia h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin: 25px 0 6px;
+}
+.referencia{
+    margin: 0 50px ;
+    margin-bottom: 40px;
+}
+.dueño{
+        width: 200px;
+        margin-right: 30px;
+        margin-left: 10px;
+}
+.datos{
+        width: 450px;
+}
+.dueño div{
+    margin: 0 30px 78px ;
+}
+.datos div{
+    margin: 0 0 94px;
+}
